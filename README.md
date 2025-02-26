@@ -40,12 +40,12 @@ Smooth scrolling navigation.
 Simple form validation to ensure valid entries.
 Hover effects on buttons and links for enhanced user experience.
 
-Demo
+Demo: 
 You can view the live demo here: [(https://consulting-landing-page-three.vercel.app/)].
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Author
+Author:
 Aditya Gupta
 [Email: adigupta.951@gmail.com]
