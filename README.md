@@ -14,6 +14,10 @@ This project is a responsive landing page for a fictitious consulting company. I
 - Smooth scrolling for navigation links.
 - Form validation with success and error messages.
 
+![Screenshot 2025-02-26 195548](https://github.com/user-attachments/assets/7b768f65-a8e7-45b1-b3af-f24b4a2f39e7)
+![Screenshot 2025-02-26 195534](https://github.com/user-attachments/assets/b4ac63f1-3d19-455a-830d-02812e4e68a4)
+
+
 ## Setup Instructions
 
 ### Prerequisites:
