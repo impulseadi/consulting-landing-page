@@ -1,5 +1,8 @@
 # Consulting Co. - Responsive Landing Page
 
+## Demo: 
+You can view the live demo here: [(https://consulting-landing-page-three.vercel.app/)].
+
 ## Overview
 This project is a responsive landing page for a fictitious consulting company. It includes the following sections:
 1. **Header**: Displays company name and navigation links.
@@ -46,13 +49,11 @@ Smooth scrolling navigation.
 Simple form validation to ensure valid entries.
 Hover effects on buttons and links for enhanced user experience.
 
-## Demo: 
-You can view the live demo here: [(https://consulting-landing-page-three.vercel.app/)].
 
 ### Contributing
 Contributions are welcome! If you'd like to improve the project, feel free to submit a pull request or open an issue.
 
-Fork the repository.
+### Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature).
